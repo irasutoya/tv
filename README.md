@@ -14,7 +14,7 @@ https://cdn.jsdelivr.net/gh/irasutoya/tv@main/index.m3u
 
 **文件内容**
 
-```m3u8
+```m3u
 #EXTINF:-1tvg-id="1"tvg-name="CCTV-1",CCTV-1
 https://tv.sakura.unicom.top:10010/PLTV/88888888/224/3221227479/index.m3u8
 #EXTINF:-1tvg-id="2"tvg-name="CCTV-2",CCTV-2
