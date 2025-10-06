@@ -9,7 +9,7 @@
 **订阅地址**
 
 ```
-https://cdn.jsdelivr.net/gh/irasutoya/tv@main/index.m3u8
+https://cdn.jsdelivr.net/gh/irasutoya/tv@main/index.m3u
 ```
 
 **文件内容**
