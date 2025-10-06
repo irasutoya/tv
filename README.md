@@ -49,8 +49,4 @@ https://tv.sakura.unicom.top:10010/PLTV/88888888/224/3221227933/index.m3u8
 https://tv.sakura.unicom.top:10010/PLTV/88888888/224/3221227577/index.m3u8
 #EXTINF:-1tvg-id="20"tvg-name="CCTV-5+",CCTV-5+
 https://tv.sakura.unicom.top:10010/PLTV/88888888/224/3221227493/index.m3u8
-#EXTINF:-1tvg-id="21"tvg-name="CCTV-4K",CCTV-4K
-https://tv.sakura.unicom.top:10010/PLTV/88888888/224/3221227988/index.m3u8
-#EXTINF:-1tvg-id="116"tvg-name="CGTN-英语",CGTN-英语
-https://tv.sakura.unicom.top:10010/PLTV/88888888/224/3221228075/index.m3u8
 ```
